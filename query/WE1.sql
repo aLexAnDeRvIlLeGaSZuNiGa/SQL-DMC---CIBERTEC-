@@ -1,0 +1,3 @@
+--Crear una Base de Datos 
+CREATE DATABASE Taller1A
+--DEFINIR LA BASE DE DATOS A TRABAJAR
